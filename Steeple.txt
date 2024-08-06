@@ -1,0 +1,22 @@
+Steeplechase
+0 0 7 13
+38
+
+becker.robots.Wall 6 0 Direction.NORTH
+becker.robots.Wall 6 1 Direction.NORTH
+becker.robots.Wall 6 2 Direction.NORTH
+becker.robots.Wall 6 3 Direction.NORTH
+becker.robots.Wall 6 4 Direction.NORTH
+becker.robots.Wall 6 5 Direction.NORTH
+becker.robots.Wall 6 6 Direction.NORTH
+becker.robots.Wall 6 7 Direction.NORTH
+becker.robots.Wall 6 8 Direction.NORTH
+becker.robots.Wall 6 9 Direction.NORTH
+becker.robots.Wall 6 10 Direction.NORTH
+becker.robots.Wall 6 11 Direction.NORTH
+becker.robots.Wall 6 12 Direction.NORTH
+becker.robots.Wall 5 10 Direction.EAST
+becker.robots.Wall 4 10 Direction.EAST
+becker.robots.Wall 3 10 Direction.EAST
+becker.robots.Wall 2 10 Direction.EAST
+becker.robots.Flasher 5 12 true
